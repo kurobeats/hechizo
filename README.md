@@ -1,2 +1,4 @@
-# hichizo
-A fork of mana-toolkit
+hechizo
+=======
+
+A mana fork.
